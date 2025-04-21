@@ -8,11 +8,9 @@ global.setting = {
  addReply: true
  }
 
-global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
-['', '', false]
-]
+global.owner = global.owner = ['201094450726', '乡احمد محمد乡', true]
+global.mods = []
+global.prems = []
 
 global.info = {
  nomerbot: '212605784394',
